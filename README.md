@@ -1,0 +1,1 @@
+**DVP Token** is the only accepted digital currency in the DVP ecosystem, and there will be no more additional issuance. Currently, any DVP network payment, reward and deposit pledge must be paid by DVP Token. DVP Token will be used to the payment of rewarding community members and provide them with financial flows.
