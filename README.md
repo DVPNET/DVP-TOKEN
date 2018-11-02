@@ -17,7 +17,7 @@ eliminate the single point of threat.
 
 - High security: The token contracts have been audited and reinforced by
 numbers of professional blockchain security companies and it is extremely high
-secured.
+secured.For details, please see [DVPToken_contract_audit_report](https://github.com/DVPNET/DVP-TOKEN/blob/master/DVPToken_contract_audit_report.pdf).
 - Constant aggregate: There is no design for destruction and
 issuance, so the total amount of tokens is fixed.1.3 Usage1.3.1 for the
 blockchain projects to issue a bounty deposit
